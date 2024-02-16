@@ -1,6 +1,6 @@
 {
   "name": "anybitwise",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A BigInt based bitwise oriented utility",
   "main": "./cjs/index.js",
   "scripts": {

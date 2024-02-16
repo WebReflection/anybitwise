@@ -1,0 +1,1 @@
+var anybitwise=function(t){"use strict";const n=65536..toString(2).slice(1);return t.default=()=>{let t=0,r=0;return()=>{const e=`0b${(2**t++).toString(2)}${n.repeat(r)}`;return 16===t&&(t=0,r++),BigInt(e)}},t}({});
